@@ -37,7 +37,6 @@
   </template>
   
   <script>
-  
   export default {
     name: "DialogCustom",
     props: ['editTask','origin'],
