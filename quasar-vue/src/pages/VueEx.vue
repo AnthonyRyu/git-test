@@ -1,3 +1,5 @@
+// 여기 모든 코드 작성
+
 <template>
   <q-card-section>
     <q-card-section>Message: {{ msg }}</q-card-section><q-separator />
